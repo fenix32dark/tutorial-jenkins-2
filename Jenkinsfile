@@ -42,7 +42,7 @@ node {
       //if (currentBuild.result == 'UNSTABLE')
          //currentBuild.result = 'FAILURE'
       //throw err
-   //}
+   //} 
    
    // ------------------------------------
    // -- ETAPA: Instalar
